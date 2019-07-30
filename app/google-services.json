@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986751185602",
+    "firebase_url": "https://fir-cloudmessegeexample.firebaseio.com",
+    "project_id": "fir-cloudmessegeexample",
+    "storage_bucket": "fir-cloudmessegeexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986751185602:android:9aef4dd049944804",
+        "android_client_info": {
+          "package_name": "com.learning.firebasecloudmessageexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986751185602-kc3vrl9qkqm6pbg5e074767c6vvd1mmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPDr8UldEcf_hYqXtwpW-OnXzw721rqyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986751185602-kc3vrl9qkqm6pbg5e074767c6vvd1mmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
